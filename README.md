@@ -1,5 +1,7 @@
 # Electrode Boilerplate Universal React Node
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholas-b-carter/electrodepoc.svg)](https://greenkeeper.io/)
+
 [![Dependency Status][daviddm-image]][daviddm-url] [![devDependency Status][daviddm-dev-image]][daviddm-dev-url]
 
 ## Features
