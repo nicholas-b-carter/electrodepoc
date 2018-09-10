@@ -37,7 +37,7 @@
    "electrode-react-ssr-caching": "^0.1.3",
    "electrode-react-webapp": "^1.2.0",
    "electrode-redux-router-engine": "^1.2.5",
-   "electrode-server": "^1.0.0",
+   "electrode-server": "^2.0.0",
    "electrode-static-paths": "^1.0.0",
    "es6-promise": "^4.0.5",
    "isomorphic-fetch": "^2.2.1",
